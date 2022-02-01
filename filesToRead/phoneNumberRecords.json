@@ -1,0 +1,20 @@
+[
+  {
+    "ID": 1,
+    "UserID": 1,
+    "PhoneType": 1,
+    "PhoneNumber": "\u002B355695103594"
+  },
+  {
+    "ID": 2,
+    "UserID": 2,
+    "PhoneType": 3,
+    "PhoneNumber": "364783647836"
+  },
+  {
+    "ID": 3,
+    "UserID": 3,
+    "PhoneType": 2,
+    "PhoneNumber": "\u002B355669896"
+  }
+]
