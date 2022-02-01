@@ -26,6 +26,9 @@ Under Source Folder the code is structured based on principles of clean architec
   -PhoneBookManager.WebAPI -> Here a simple Minimal web api that consumes the functionalitites of the Domain
 Under Tests folder is used to store all projects regarding unit test, integration test, etc
    -PhoneBookManager.UnitTests-> using the prinicples of Dependcy Injection, all services of domain are mocked and used for testing
+   
+   ![image](https://user-images.githubusercontent.com/41747651/151966817-46543970-eb5b-4ea7-a881-9f6b0bb36604.png)
+
 
 
 
